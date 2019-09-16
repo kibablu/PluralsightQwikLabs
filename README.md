@@ -1,3 +1,14 @@
+.. image:: https://raw.githubusercontent.com/collective/disclaimer/master/docs/disclaimer.png
+    :align: left
+    :alt: Disclaimer
+    :height: 100px
+    :width: 100px
+    
+ 
+**Disclaimer**
+ 
+>I just automated these qwiklabs and made it easier to access. This is not at anyway associate with [Pluralsight](https://www.pluralsight.com) or [Qwiklabs]https://www.qwiklabs.com/()
+
 # PluralsightQwikLabs
 A curated list of qwiklabs found on [Pluralsight's](https://www.pluralsight.com/paths/architecting-with-google-cloud-platform-infrastructure) Architecting with Google Cloud Platform: Infrastructure Path.
 
