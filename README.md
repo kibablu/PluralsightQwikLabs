@@ -6,8 +6,8 @@ A curated list of qwiklabs found on [Pluralsight's](https://www.pluralsight.com/
 ## Table of Contents
 
 - [Beginner](#Beginner)
-- [Intermediate](Intermediate)
-- [Advanced](Advanced)
+- [Intermediate](#Intermediate)
+- [Advanced](#Advanced)
 
 # Beginner
 
