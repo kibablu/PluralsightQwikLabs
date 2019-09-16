@@ -81,4 +81,6 @@ This section covers deploying practical solutions including securely interconnec
 
 * GCP_Course05_Lab01 [Kubernetes Load Balancing v1.5](https://googlepluralsight.qwiklabs.com/focuses/23638)
 
-** Inspired by ** @jochenkirstaetter read his blog [here](https://jochen.kirstaetter.name/alc4-qwiklabs/)
+
+
+**Inspired by** [@jochenkirstaetter](https://github.com/jochenkirstaetter) read his blog [here](https://jochen.kirstaetter.name/alc4-qwiklabs/)
