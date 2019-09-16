@@ -1,21 +1,21 @@
 # PluralsightQwikLabs
-A curated of qwiklabs found on [Pluralsight's](https://www.pluralsight.com/paths/architecting-with-google-cloud-platform-infrastructure) Architecting with Google Cloud Platform: Infrastructure Path.
+A curated list of qwiklabs found on [Pluralsight's](https://www.pluralsight.com/paths/architecting-with-google-cloud-platform-infrastructure) Architecting with Google Cloud Platform: Infrastructure Path.
 
 
 
 ## Table of Contents
 
-- [Beginner](\--Beginner)
+- [Beginner Modules](#Beginner-Modules)
 - [Intermediate](Intermediate)
 - [Advanced](Advanced)
 
-### Beginner
+# Beginner Modules
 
 [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.pluralsight.com/courses/gcp-fundamentals)
 
 This section introduces you to important concepts and terminology for working with Google Cloud Platform (GCP). You learn about, and compare, many of the computing and storage services available in Google Cloud Platform, including Google App Engine, Google Compute Engine, and Google Container Engine.
 
-#### Labs
+## Labs
 
 * GCP_Course01_Lab01 [GCP Fundamentals: Getting Started with Cloud Marketplace](https://googlepluralsight.qwiklabs.com/focuses/23608)
 * GCP_Course01_Lab02 [GCP Fundamentals: Getting Started with Compute Engine](https://googlepluralsight.qwiklabs.com/focuses/23631)
@@ -25,13 +25,13 @@ This section introduces you to important concepts and terminology for working wi
 * GCP_Course01_Lab06 [GCP Fundamentals: Getting Started with Deployment Manager and Stackdriver](https://googlepluralsight.qwiklabs.com/focuses/23635)
 * GCP_Course01_Lab07 [GCP Fundamentals: Getting Started with BigQuery](https://googlepluralsight.qwiklabs.com/focuses/23636)
 
-### Intermediate
+# Intermediate
 
 [Essential Cloud Infrastructure: Foundation](https://app.pluralsight.com/library/courses/gcp-infrastructure-foundation/table-of-contents)
 
 In this section You will learn how to use the Google Cloud Platform through the console and Cloud Shell. You'll also learn about the role of a cloud architect, approaches to infrastructure design, and virtual networking configuration with Virtual Private Cloud (VPC), Projects, Networks, Subnetworks, IP addresses, Routes, and Firewall rules. It also covers deploying practical solutions including access management, quotas and billing, and resource monitoring.
 
-#### Labs
+## Labs
 
 * GCP_Course02_Lab01 [Console and Cloud Shell v1.5](https://googlepluralsight.qwiklabs.com/focuses/23618)
 * GCP_Course02_Lab02 [Infrastructure Preview v1.5](https://googlepluralsight.qwiklabs.com/focuses/23619)
@@ -44,7 +44,7 @@ In this section You will learn how to use the Google Cloud Platform through the 
 
 In this section You will learn how to use the Google Cloud Platform through the console and Cloud Shell. You'll also learn about the role of a cloud architect, approaches to infrastructure design, and virtual networking configuration with Virtual Private Cloud (VPC), Projects, Networks, Subnetworks, IP addresses, Routes, and Firewall rules. It also covers deploying practical solutions including access management, quotas and billing, and resource monitoring.
 
-#### Labs
+## Labs
 
 * GCP_Course03_Lab01 [Cloud IAM v1.5](https://googlepluralsight.qwiklabs.com/focuses/23621)
 * GCP_Course03_Lab02 [Cloud Storage v1.5](https://googlepluralsight.qwiklabs.com/focuses/23630)
@@ -54,13 +54,13 @@ In this section You will learn how to use the Google Cloud Platform through the 
 * GCP_Course03_Lab06 [Resource Monitoring (Stackdriver) v1.5](https://googlepluralsight.qwiklabs.com/focuses/23641)
 * GCP_Course03_Lab07 [Error Reporting and Debugging (Stackdriver) v1.5](https://googlepluralsight.qwiklabs.com/focuses/23642)
 
-### Advanced
+# Advanced
 
 [Elastic Cloud Infrastructure: Scaling and Automation](https://app.pluralsight.com/library/courses/gcp-infrastructure-scaling-automation/table-of-contents)
 
 This section covers deploying practical solutions including securely interconnecting networks, load balancing, autoscaling, infrastructure automation and managed services. Learners explore services provided to applications built on GCP that enhance their scalability and maintainability. They work with services like Google Cloud Pub/Sub and Google Cloud Functions to make applications more efficient. They also explore the use of containers on GCP.
 
-#### Labs
+## Labs
 
 * GCP_Course04_Lab01 [Virtual Private Networks (VPN) v1.5](https://googlepluralsight.qwiklabs.com/focuses/23644)
 * GCP_Course04_Lab02 [Virtual Machine Automation and Load Balancing v1.5](https://googlepluralsight.qwiklabs.com/focuses/23646)
@@ -72,6 +72,6 @@ This section covers deploying practical solutions including securely interconnec
 
 This section covers deploying practical solutions including securely interconnecting networks, load balancing, autoscaling, infrastructure automation and managed services. Learners explore services provided to applications built on GCP that enhance their scalability and maintainability. They work with services like Google Cloud Pub/Sub and Google Cloud Functions to make applications more efficient. They also explore the use of containers on GCP.
 
-#### Lab
+## Lab
 
 * GCP_Course05_Lab01 [Kubernetes Load Balancing v1.5](https://googlepluralsight.qwiklabs.com/focuses/23638)
