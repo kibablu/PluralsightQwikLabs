@@ -5,11 +5,11 @@ A curated list of qwiklabs found on [Pluralsight's](https://www.pluralsight.com/
 
 ## Table of Contents
 
-- [Beginner Modules](#Beginner-Modules)
+- [Beginner](#Beginner)
 - [Intermediate](Intermediate)
 - [Advanced](Advanced)
 
-# Beginner Modules
+# Beginner
 
 [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.pluralsight.com/courses/gcp-fundamentals)
 
