@@ -13,6 +13,7 @@ A curated list of qwiklabs found on [Pluralsight's](https://www.pluralsight.com/
 - [Beginner](#Beginner)
 - [Intermediate](#Intermediate)
 - [Advanced](#Advanced)
+- [Others](#Others)
 
 # Beginner
 
@@ -81,6 +82,20 @@ This section covers deploying practical solutions including securely interconnec
 
 * GCP_Course05_Lab01 [Kubernetes Load Balancing v1.5](https://googlepluralsight.qwiklabs.com/focuses/23638)
 
+# Others
 
+[Getting Started with Google Kubernetes Engine](https://app.pluralsight.com/library/courses/getting-started-google-kubernetes-engine/table-of-contents)
+
+You'll learn to containerize workloads in Docker containers, deploy them to Kubernetes clusters provided by Google Kubernetes Engine, and scale those workloads to handle increased traffic.
+
+## Labs
+
+* [Introduction to Containers and Docker v1.6](https://googlepluralsight.qwiklabs.com/focuses/36034)
+* [Kubernetes Basics v1.6](https://googlepluralsight.qwiklabs.com/focuses/36035)
+* [Deploying to Kubernetes v1.6](https://googlepluralsight.qwiklabs.com/focuses/36038)
+* [Continuous Deployment with Jenkins v1.6](https://googlepluralsight.qwiklabs.com/focuses/36041)
+* [Continuous Deployment with Spinnaker v1.6](https://googlepluralsight.qwiklabs.com/focuses/36045)
+
+***************************************************
 
 **Inspired by** [@jochenkirstaetter](https://github.com/jochenkirstaetter) read his blog [here](https://jochen.kirstaetter.name/alc4-qwiklabs/)
