@@ -1,7 +1,7 @@
 
 **Disclaimer**
  
->I just arranged these qwiklabs and made it easier to access. This is not at anyway associate with [Pluralsight](https://www.pluralsight.com) or [Qwiklabs](https://www.qwiklabs.com)
+>I just arranged these qwiklabs and made it easier to access. This is not in anyway associate with [Pluralsight](https://www.pluralsight.com) or [Qwiklabs](https://www.qwiklabs.com)
 
 # PluralsightQwikLabs
 A curated list of qwiklabs found on [Pluralsight's](https://www.pluralsight.com/paths/architecting-with-google-cloud-platform-infrastructure) Architecting with Google Cloud Platform: Infrastructure Path.
