@@ -84,6 +84,16 @@ This section covers deploying practical solutions including securely interconnec
 
 # Others
 
+[Mitigating Security Vulnerabilities on Google Cloud Platform](https://app.pluralsight.com/library/courses/mitigating-security-vulnerabilities-google-cloud-platform/table-of-contents)
+
+This course gives participants broad study of security controls and techniques on Google Cloud Platform.
+
+## Labs
+
+* [Configuring, using, and auditing VM service accounts and scopes](https://googlepluralsight.qwiklabs.com/focuses/38130)
+* [Encrypting Disks with Customer-Supplied Encryption Keys](https://googlepluralsight.qwiklabs.com/focuses/38134)
+
+
 [Getting Started with Google Kubernetes Engine](https://app.pluralsight.com/library/courses/getting-started-google-kubernetes-engine/table-of-contents)
 
 You'll learn to containerize workloads in Docker containers, deploy them to Kubernetes clusters provided by Google Kubernetes Engine, and scale those workloads to handle increased traffic.
