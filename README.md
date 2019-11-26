@@ -92,6 +92,14 @@ This course gives participants broad study of security controls and techniques o
 
 * [Configuring, using, and auditing VM service accounts and scopes](https://googlepluralsight.qwiklabs.com/focuses/38130)
 * [Encrypting Disks with Customer-Supplied Encryption Keys](https://googlepluralsight.qwiklabs.com/focuses/38134)
+* [Using Customer-Managed Encryption Keys with Cloud Storage and Cloud KMS](https://googlepluralsight.qwiklabs.com/focuses/38137)
+* [Using Customer-Supplied Encryption Keys with Cloud Storage](https://googlepluralsight.qwiklabs.com/focuses/38136)
+* [Creating a BigQuery authorized view](https://googlepluralsight.qwiklabs.com/focuses/38133)
+* [Configuring GCLB, CDN, traffic blacklisting with Cloud Armor](https://googlepluralsight.qwiklabs.com/focuses/38131)
+* [Using Cloud Security Scanner to find vulnerabilities in an App Engine application](https://googlepluralsight.qwiklabs.com/focuses/38138)
+* [Configuring Identity Aware Proxy to Protect a Project](https://googlepluralsight.qwiklabs.com/focuses/38132)
+* [Redacting Sensitive Data with Data Loss Prevention API](https://googlepluralsight.qwiklabs.com/focuses/38135)
+
 
 
 [Getting Started with Google Kubernetes Engine](https://app.pluralsight.com/library/courses/getting-started-google-kubernetes-engine/table-of-contents)
