@@ -45,6 +45,7 @@ In this section You will learn how to use the Google Cloud Platform through the 
 * [Bastion Host v1.5](https://googlepluralsight.qwiklabs.com/focuses/23655)
 * [Creating Virtual Machines v1.5](https://googlepluralsight.qwiklabs.com/focuses/23628)
 * [Working with Virtual Machines v1.5](https://googlepluralsight.qwiklabs.com/focuses/23629)
+* [VPC Networking](https://googlepluralsight.qwiklabs.com/focuses/37325)
 
 [Essential Cloud Infrastructure: Core Services](https://app.pluralsight.com/library/courses/gcp-infrastructure-core-services/table-of-contents)
 
