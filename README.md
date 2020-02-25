@@ -58,8 +58,9 @@ In this section You will learn how to use the Google Cloud Platform through the 
 * [Cloud SQL v1.5](https://googlepluralsight.qwiklabs.com/focuses/23637)
 * [Cloud Datastore v1.5](https://googlepluralsight.qwiklabs.com/focuses/23639)
 * [Examining Billing data with BigQuery v1.5](https://googlepluralsight.qwiklabs.com/focuses/23640)
-* [Resource Monitoring (Stackdriver) v1.5](https://googlepluralsight.qwiklabs.com/focuses/23641)
-* [Error Reporting and Debugging (Stackdriver) v1.5](https://googlepluralsight.qwiklabs.com/focuses/23642)
+* [Resource Monitoring (Stackdriver) v1.5](https://googlepluralsight.qwiklabs.com/focuses/37333)
+* [Error Reporting and Debugging (Stackdriver)](https://googlepluralsight.qwiklabs.com/focuses/23642)
+* [Implementing Cloud SQL](https://googlepluralsight.qwiklabs.com/focuses/37331)
 
 # Advanced
 
