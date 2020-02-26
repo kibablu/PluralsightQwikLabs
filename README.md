@@ -77,6 +77,8 @@ This section covers deploying practical solutions including securely interconnec
 * [Deployment Manager v1.5](https://googlepluralsight.qwiklabs.com/focuses/23645)
 * [Configuring an HTTP Load Balancer with Autoscaling](https://googlepluralsight.qwiklabs.com/focuses/37339)
 * [Configuring an Internal Load Balancer](https://googlepluralsight.qwiklabs.com/focuses/41015)
+* [Automating the Deployment of Infrastructure Using Deployment Manager](https://googlepluralsight.qwiklabs.com/focuses/37343)
+* [Automating the Deployment of Infrastructure Using Terraform](https://googlepluralsight.qwiklabs.com/focuses/37345)
 
 [Elastic Cloud Infrastructure: Containers and Services](https://app.pluralsight.com/library/courses/gcp-infrastructure-containers-services/table-of-contents)
 
