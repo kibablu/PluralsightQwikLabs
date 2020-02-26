@@ -112,7 +112,7 @@ This course gives participants broad study of security controls and techniques o
 
 You'll learn to containerize workloads in Docker containers, deploy them to Kubernetes clusters provided by Google Kubernetes Engine, and scale those workloads to handle increased traffic.
 
-## Labs
+## Labs DevOps
 
 * [Introduction to Containers and Docker v1.6](https://googlepluralsight.qwiklabs.com/focuses/36034)
 * [Kubernetes Basics v1.6](https://googlepluralsight.qwiklabs.com/focuses/36035)
