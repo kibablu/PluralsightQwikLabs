@@ -31,6 +31,7 @@ This section introduces you to important concepts and terminology for working wi
 * [GCP Fundamentals: Getting Started with Deployment Manager and Stackdriver](https://googlepluralsight.qwiklabs.com/focuses/23635)
 * [GCP Fundamentals: Getting Started with BigQuery](https://googlepluralsight.qwiklabs.com/focuses/23636)
 
+***************************************************
 # Intermediate
 
 [Essential Cloud Infrastructure: Foundation](https://app.pluralsight.com/library/courses/gcp-infrastructure-foundation/table-of-contents)
@@ -47,6 +48,8 @@ In this section You will learn how to use the Google Cloud Platform through the 
 * [Working with Virtual Machines v1.5](https://googlepluralsight.qwiklabs.com/focuses/23629)
 * [VPC Networking](https://googlepluralsight.qwiklabs.com/focuses/37325)
 
+***************************************************
+
 [Essential Cloud Infrastructure: Core Services](https://app.pluralsight.com/library/courses/gcp-infrastructure-core-services/table-of-contents)
 
 In this section You will learn how to use the Google Cloud Platform through the console and Cloud Shell. You'll also learn about the role of a cloud architect, approaches to infrastructure design, and virtual networking configuration with Virtual Private Cloud (VPC), Projects, Networks, Subnetworks, IP addresses, Routes, and Firewall rules. It also covers deploying practical solutions including access management, quotas and billing, and resource monitoring.
@@ -61,6 +64,8 @@ In this section You will learn how to use the Google Cloud Platform through the 
 * [Resource Monitoring (Stackdriver) v1.5](https://googlepluralsight.qwiklabs.com/focuses/37333)
 * [Error Reporting and Debugging (Stackdriver)](https://googlepluralsight.qwiklabs.com/focuses/23642)
 * [Implementing Cloud SQL](https://googlepluralsight.qwiklabs.com/focuses/37331)
+
+***************************************************
 
 # Advanced
 
@@ -80,6 +85,8 @@ This section covers deploying practical solutions including securely interconnec
 * [Automating the Deployment of Infrastructure Using Deployment Manager](https://googlepluralsight.qwiklabs.com/focuses/37343)
 * [Automating the Deployment of Infrastructure Using Terraform](https://googlepluralsight.qwiklabs.com/focuses/37345)
 
+***************************************************
+
 [Elastic Cloud Infrastructure: Containers and Services](https://app.pluralsight.com/library/courses/gcp-infrastructure-containers-services/table-of-contents)
 
 This section covers deploying practical solutions including securely interconnecting networks, load balancing, autoscaling, infrastructure automation and managed services. Learners explore services provided to applications built on GCP that enhance their scalability and maintainability. They work with services like Google Cloud Pub/Sub and Google Cloud Functions to make applications more efficient. They also explore the use of containers on GCP.
@@ -88,7 +95,9 @@ This section covers deploying practical solutions including securely interconnec
 
 * [Kubernetes Load Balancing v1.5](https://googlepluralsight.qwiklabs.com/focuses/23638)
 
-# Others
+***************************************************
+
+# Other Courses
 
 [Mitigating Security Vulnerabilities on Google Cloud Platform](https://app.pluralsight.com/library/courses/mitigating-security-vulnerabilities-google-cloud-platform/table-of-contents)
 
@@ -106,7 +115,23 @@ This course gives participants broad study of security controls and techniques o
 * [Configuring Identity Aware Proxy to Protect a Project](https://googlepluralsight.qwiklabs.com/focuses/38132)
 * [Redacting Sensitive Data with Data Loss Prevention API](https://googlepluralsight.qwiklabs.com/focuses/38135)
 
+***************************************************
 
+[Managing Security in Google Cloud Platform](https://app.pluralsight.com/library/courses/managing-security-google-cloud-platform/table-of-contents)
+
+This self-paced training course gives participants broad study of security controls and techniques on Google Cloud Platform. Through recorded lectures, demonstrations, and hands-on labs, participants explore and deploy the components of a secure.
+
+## Labs
+
+* [Configuring Cloud IAM](https://googlepluralsight.qwiklabs.com/focuses/39011)
+* [Configuring VPC Firewalls](https://googlepluralsight.qwiklabs.com/focuses/39012)
+* [Viewing and using VPC flow logs in Stackdriver](https://googlepluralsight.qwiklabs.com/focuses/39014)
+* [Installing Stackdriver Agents](https://googlepluralsight.qwiklabs.com/focuses/39013)
+* [Configuring and using Stackdriver logging and monitoring
+45 minutes](https://googlepluralsight.qwiklabs.com/focuses/39009)
+* [Configuring and Viewing Audit Logs in Stackdriver](https://googlepluralsight.qwiklabs.com/focuses/39010)
+
+***************************************************
 
 [Getting Started with Google Kubernetes Engine](https://app.pluralsight.com/library/courses/getting-started-google-kubernetes-engine/table-of-contents)
 
