@@ -13,7 +13,7 @@ A curated list of qwiklabs found on [Pluralsight's](https://www.pluralsight.com/
 - [Beginner](#Beginner)
 - [Intermediate](#Intermediate)
 - [Advanced](#Advanced)
-- [Others](#Others)
+- [Other Courses](#Other Courses)
 
 # Beginner
 
@@ -97,7 +97,7 @@ This section covers deploying practical solutions including securely interconnec
 
 ***************************************************
 
-# Other
+# Other Courses
 
 [Mitigating Security Vulnerabilities on Google Cloud Platform](https://app.pluralsight.com/library/courses/mitigating-security-vulnerabilities-google-cloud-platform/table-of-contents)
 
