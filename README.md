@@ -13,7 +13,7 @@ A curated list of qwiklabs found on [Pluralsight's](https://www.pluralsight.com/
 - [Beginner](#Beginner)
 - [Intermediate](#Intermediate)
 - [Advanced](#Advanced)
-- [Others](#Others)
+- [Others](#Others Courses)
 
 # Beginner
 
