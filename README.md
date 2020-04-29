@@ -140,6 +140,7 @@ This course gives participants a broad study of networking options on Google Clo
 ## Labs
 
 * [Getting Started with VPC Networking](https://googlepluralsight.qwiklabs.com/focuses/41019)
+* [Working with multiple VPC networks](https://googlepluralsight.qwiklabs.com/focuses/41022)
 
 
 ***************************************************
