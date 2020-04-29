@@ -133,6 +133,12 @@ This self-paced training course gives participants broad study of security contr
 
 ***************************************************
 
+[Networking in Google Cloud: Defining and Implementing Networks](https://app.pluralsight.com/library/courses/networking-google-cloud-defining-implementing-networks/table-of-contents)
+
+This course gives participants a broad study of networking options on Google Cloud. Through recorded lectures, demonstrations, and hands-on labs, participants explore and deploy Google Cloud networking technologies, such as Google Virtual Private
+
+## Labs
+
 [Getting Started with Google Kubernetes Engine](https://app.pluralsight.com/library/courses/getting-started-google-kubernetes-engine/table-of-contents)
 
 You'll learn to containerize workloads in Docker containers, deploy them to Kubernetes clusters provided by Google Kubernetes Engine, and scale those workloads to handle increased traffic.
