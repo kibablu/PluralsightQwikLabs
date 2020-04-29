@@ -141,6 +141,8 @@ This course gives participants a broad study of networking options on Google Clo
 
 * [Getting Started with VPC Networking](https://googlepluralsight.qwiklabs.com/focuses/41019)
 
+
+***************************************************
 [Getting Started with Google Kubernetes Engine](https://app.pluralsight.com/library/courses/getting-started-google-kubernetes-engine/table-of-contents)
 
 You'll learn to containerize workloads in Docker containers, deploy them to Kubernetes clusters provided by Google Kubernetes Engine, and scale those workloads to handle increased traffic.
