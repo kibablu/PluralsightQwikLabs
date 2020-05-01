@@ -143,6 +143,7 @@ This course gives participants a broad study of networking options on Google Clo
 * [Working with multiple VPC networks](https://googlepluralsight.qwiklabs.com/focuses/41022)
 * [Controlling Access to VPC Networks](https://googlepluralsight.qwiklabs.com/focuses/41017)
 * [Configuring VPC Network Peering](https://googlepluralsight.qwiklabs.com/focuses/41016)
+* [Configuring an HTTP Load Balancer with Cloud Armor](https://googlepluralsight.qwiklabs.com/focuses/41014)
 
 
 ***************************************************
