@@ -149,6 +149,21 @@ This course gives participants a broad study of networking options on Google Clo
 
 
 ***************************************************
+
+
+[Architecting with Google Kubernetes Engine - Foundations](https://app.pluralsight.com/library/courses/architecting-google-kubernetes-engine-foundations/table-of-contents)
+
+
+In this course, Architecting with Google Kubernetes Engine:Foundations, you get a review of the layout and principles of Google Cloud Platform, followed by an introduction to creating and managing software containers and an introduction to the...
+
+## Labs
+
+* [AK8S-01 Accessing the GCP Console and Cloud Shell](https://googlepluralsight.qwiklabs.com/focuses/9693366?parent=lti_session)
+
+
+****************************************************
+
+
 [Getting Started with Google Kubernetes Engine](https://app.pluralsight.com/library/courses/getting-started-google-kubernetes-engine/table-of-contents)
 
 You'll learn to containerize workloads in Docker containers, deploy them to Kubernetes clusters provided by Google Kubernetes Engine, and scale those workloads to handle increased traffic.
