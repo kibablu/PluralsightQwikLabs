@@ -160,6 +160,7 @@ In this course, Architecting with Google Kubernetes Engine:Foundations, you get 
 
 * [AK8S-01 Accessing the GCP Console and Cloud Shell](https://googlepluralsight.qwiklabs.com/focuses/9693366?parent=lti_session)
 * [AK8S-02 Working with Cloud Build](https://googlepluralsight.qwiklabs.com/focuses/9695022?parent=lti_session)
+* [AK8S-03 Creating a GKE Cluster via GCP Console](https://googlepluralsight.qwiklabs.com/focuses/9719957?parent=lti_session)
 
 
 ****************************************************
