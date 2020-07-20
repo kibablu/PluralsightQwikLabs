@@ -165,6 +165,17 @@ In this course, Architecting with Google Kubernetes Engine:Foundations, you get 
 
 ****************************************************
 
+[Architecting with Google Kubernetes Engine - Workloads](https://app.pluralsight.com/library/courses/architecting-google-kubernetes-engine-workloads/table-of-contents)
+
+
+In this course, 'Architecting with Google Kubernetes Engine - Workloads', you learn about performing Kubernetes operations; creating and managing deployments; the tools of GKE networking; and how to give your Kubernetes workloads persistent storage.
+
+## Labs
+
+* [AK8S-04 Creating a GKE Cluster via Cloud Shell](https://googlepluralsight.qwiklabs.com/focuses/9790963?parent=lti_session)
+
+****************************************************
+
 
 [Getting Started with Google Kubernetes Engine](https://app.pluralsight.com/library/courses/getting-started-google-kubernetes-engine/table-of-contents)
 
