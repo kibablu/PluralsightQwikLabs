@@ -172,6 +172,7 @@ In this course, 'Architecting with Google Kubernetes Engine - Workloads', you le
 
 ## Labs
 
+* [Deploying Google Kubernetes Engine Clusters from Cloud Shell](https://googlepluralsight.qwiklabs.com/focuses/13267849?parent=lti_session)
 * [AK8S-04 Creating a GKE Cluster via Cloud Shell](https://googlepluralsight.qwiklabs.com/focuses/9790963?parent=lti_session)
 * [AK8S-05 Upgrading Kubernetes Engine Clusters](https://googlepluralsight.qwiklabs.com/focuses/9791656?parent=lti_session)
 * [AK8S-06 Creating Kubernetes Engine Deployments](https://googlepluralsight.qwiklabs.com/focuses/9892778?parent=lti_session)
