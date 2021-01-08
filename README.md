@@ -180,6 +180,7 @@ In this course, 'Architecting with Google Kubernetes Engine - Workloads', you le
 * [Configuring Pod Autoscaling and NodePools](https://googlepluralsight.qwiklabs.com/focuses/13299714?parent=lti_session)
 * [Configuring Google Kubernetes Engine (GKE) Networking](https://googlepluralsight.qwiklabs.com/focuses/13315409?parent=lti_session)
 * [Creating Services and Ingress Resources](https://googlepluralsight.qwiklabs.com/focuses/13316003?parent=lti_session)
+* [Configuring Persistent Storage for Google Kubernetes Engine](https://googlepluralsight.qwiklabs.com/focuses/13327694?parent=lti_session)
 
 ****************************************************
 
