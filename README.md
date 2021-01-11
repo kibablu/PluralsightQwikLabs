@@ -34,7 +34,7 @@ This section introduces you to important concepts and terminology for working wi
 ***************************************************
 # Intermediate
 
-[Essential Cloud Infrastructure: Foundation](https://app.pluralsight.com/library/courses/gcp-infrastructure-foundation/table-of-contents)
+[Essential Cloud Infrastructure: Foundation](https://www.pluralsight.com/courses/essential-cloud-infrastructure-foundation)
 
 In this section You will learn how to use the Google Cloud Platform through the console and Cloud Shell. You'll also learn about the role of a cloud architect, approaches to infrastructure design, and virtual networking configuration with Virtual Private Cloud (VPC), Projects, Networks, Subnetworks, IP addresses, Routes, and Firewall rules. It also covers deploying practical solutions including access management, quotas and billing, and resource monitoring.
 
@@ -50,7 +50,7 @@ In this section You will learn how to use the Google Cloud Platform through the 
 
 ***************************************************
 
-[Essential Cloud Infrastructure: Core Services](https://app.pluralsight.com/library/courses/gcp-infrastructure-core-services/table-of-contents)
+[Essential Cloud Infrastructure: Core Services](https://www.pluralsight.com/courses/essential-cloud-infrastructure-core-services)
 
 In this section You will learn how to use the Google Cloud Platform through the console and Cloud Shell. You'll also learn about the role of a cloud architect, approaches to infrastructure design, and virtual networking configuration with Virtual Private Cloud (VPC), Projects, Networks, Subnetworks, IP addresses, Routes, and Firewall rules. It also covers deploying practical solutions including access management, quotas and billing, and resource monitoring.
 
@@ -69,7 +69,7 @@ In this section You will learn how to use the Google Cloud Platform through the 
 
 # Advanced
 
-[Elastic Cloud Infrastructure: Scaling and Automation](https://app.pluralsight.com/library/courses/gcp-infrastructure-scaling-automation/table-of-contents)
+[Elastic Cloud Infrastructure: Scaling and Automation](https://www.pluralsight.com/courses/elastic-cloud-infrastructure-scaling-automation)
 
 This section covers deploying practical solutions including securely interconnecting networks, load balancing, autoscaling, infrastructure automation and managed services. Learners explore services provided to applications built on GCP that enhance their scalability and maintainability. They work with services like Google Cloud Pub/Sub and Google Cloud Functions to make applications more efficient. They also explore the use of containers on GCP.
 
@@ -87,7 +87,7 @@ This section covers deploying practical solutions including securely interconnec
 
 ***************************************************
 
-[Elastic Cloud Infrastructure: Containers and Services](https://app.pluralsight.com/library/courses/gcp-infrastructure-containers-services/table-of-contents)
+[Elastic Cloud Infrastructure: Containers and Services](https://www.pluralsight.com/courses/getting-started-google-kubernetes-engine)
 
 This section covers deploying practical solutions including securely interconnecting networks, load balancing, autoscaling, infrastructure automation and managed services. Learners explore services provided to applications built on GCP that enhance their scalability and maintainability. They work with services like Google Cloud Pub/Sub and Google Cloud Functions to make applications more efficient. They also explore the use of containers on GCP.
 
@@ -99,7 +99,7 @@ This section covers deploying practical solutions including securely interconnec
 
 # Other-Courses
 
-[Mitigating Security Vulnerabilities on Google Cloud Platform](https://app.pluralsight.com/library/courses/mitigating-security-vulnerabilities-google-cloud-platform/table-of-contents)
+[Mitigating Security Vulnerabilities on Google Cloud Platform](https://www.pluralsight.com/courses/mitigating-security-vulnerabilities-google-cloud-platform)
 
 This course gives participants broad study of security controls and techniques on Google Cloud Platform.
 
@@ -117,7 +117,7 @@ This course gives participants broad study of security controls and techniques o
 
 ***************************************************
 
-[Managing Security in Google Cloud Platform](https://app.pluralsight.com/library/courses/managing-security-google-cloud-platform/table-of-contents)
+[Managing Security in Google Cloud Platform](https://www.pluralsight.com/courses/managing-security-google-cloud-platform)
 
 This self-paced training course gives participants broad study of security controls and techniques on Google Cloud Platform. Through recorded lectures, demonstrations, and hands-on labs, participants explore and deploy the components of a secure.
 
@@ -133,7 +133,7 @@ This self-paced training course gives participants broad study of security contr
 
 ***************************************************
 
-[Networking in Google Cloud: Defining and Implementing Networks](https://app.pluralsight.com/library/courses/networking-google-cloud-defining-implementing-networks/table-of-contents)
+[Networking in Google Cloud: Defining and Implementing Networks](https://www.pluralsight.com/courses/networking-google-cloud-defining-implementing-networks)
 
 This course gives participants a broad study of networking options on Google Cloud. Through recorded lectures, demonstrations, and hands-on labs, participants explore and deploy Google Cloud networking technologies, such as Google Virtual Private
 
@@ -151,7 +151,7 @@ This course gives participants a broad study of networking options on Google Clo
 ***************************************************
 
 
-[Architecting with Google Kubernetes Engine - Foundations](https://app.pluralsight.com/library/courses/architecting-google-kubernetes-engine-foundations/table-of-contents)
+[Architecting with Google Kubernetes Engine - Foundations](https://www.pluralsight.com/courses/architecting-google-kubernetes-engine-foundations)
 
 
 In this course, Architecting with Google Kubernetes Engine:Foundations, you get a review of the layout and principles of Google Cloud Platform, followed by an introduction to creating and managing software containers and an introduction to the...
@@ -165,7 +165,7 @@ In this course, Architecting with Google Kubernetes Engine:Foundations, you get 
 
 ****************************************************
 
-[Architecting with Google Kubernetes Engine - Workloads](https://app.pluralsight.com/library/courses/architecting-google-kubernetes-engine-workloads/table-of-contents)
+[Architecting with Google Kubernetes Engine - Workloads](https://www.pluralsight.com/courses/architecting-google-kubernetes-engine-workloads)
 
 
 In this course, 'Architecting with Google Kubernetes Engine - Workloads', you learn about performing Kubernetes operations; creating and managing deployments; the tools of GKE networking; and how to give your Kubernetes workloads persistent storage.
@@ -193,7 +193,7 @@ In this course, 'Architecting with Google Kubernetes Engine - Production', you'l
 
 ****************************************************
 
-[Getting Started with Google Kubernetes Engine](https://app.pluralsight.com/library/courses/getting-started-google-kubernetes-engine/table-of-contents)
+[Getting Started with Google Kubernetes Engine](https://www.pluralsight.com/courses/getting-started-google-kubernetes-engine)
 
 You'll learn to containerize workloads in Docker containers, deploy them to Kubernetes clusters provided by Google Kubernetes Engine, and scale those workloads to handle increased traffic.
 
