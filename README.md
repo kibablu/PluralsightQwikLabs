@@ -191,6 +191,8 @@ In this course, 'Architecting with Google Kubernetes Engine - Production', you'l
 
 ## Labs
 
+* [Securing Google Kubernetes Engine with Cloud IAM and Pod Security Policies](https://googlepluralsight.qwiklabs.com/focuses/13365646?parent=lti_session)
+
 ****************************************************
 
 [Getting Started with Google Kubernetes Engine](https://www.pluralsight.com/courses/getting-started-google-kubernetes-engine)
