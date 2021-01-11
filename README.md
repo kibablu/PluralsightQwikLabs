@@ -185,6 +185,13 @@ In this course, 'Architecting with Google Kubernetes Engine - Workloads', you le
 
 ****************************************************
 
+[Architecting with Google Kubernetes Engine - Production](https://www.pluralsight.com/courses/architecting-google-kubernetes-engine-production-1)
+
+In this course, 'Architecting with Google Kubernetes Engine - Production', you'll learn about Kubernetes and GKE security; logging and monitoring; and using Google Cloud managed storage and database services from within GKE.
+
+## Labs
+
+****************************************************
 
 [Getting Started with Google Kubernetes Engine](https://app.pluralsight.com/library/courses/getting-started-google-kubernetes-engine/table-of-contents)
 
