@@ -193,6 +193,7 @@ In this course, 'Architecting with Google Kubernetes Engine - Production', you'l
 
 * [Securing Google Kubernetes Engine with Cloud IAM and Pod Security Policies](https://googlepluralsight.qwiklabs.com/focuses/13365646?parent=lti_session)
 * [Implementing Role-Based Access Control with Google Kubernetes Engine](https://googlepluralsight.qwiklabs.com/focuses/13366381?parent=lti_session)
+* [Configuring Kubernetes Engine native Monitoring and Logging](https://googlepluralsight.qwiklabs.com/focuses/13381302?parent=lti_session)
 
 ****************************************************
 
