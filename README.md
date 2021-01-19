@@ -214,4 +214,14 @@ You'll learn to containerize workloads in Docker containers, deploy them to Kube
 
 ***************************************************
 
+## Networking in Google Cloud
+
+This learning path gives participants broad study of core infrastructure and networking options on Google Cloud Platform. Through recorded lectures, demonstrations, and hands-on labs, participants explore and deploy GCP networking technologies, such as Google Virtual Private Cloud (VPC) networks, subnets, firewalls; interconnection among networks; load balancing; Cloud DNS; Cloud CDN; Cloud NAT. The course will also cover common network design patterns and automated deployment using Deployment Manager or Terraform.
+
+[Networking in Google Cloud: Defining and Implementing Networks](https://www.pluralsight.com/courses/networking-google-cloud-defining-implementing-networks-2)
+
+This course gives participants a broad study of networking options on Google Cloud. Through recorded lectures, demonstrations, and hands-on labs, participants explore and deploy Google Cloud networking technologies, such as Google Virtual Private Cloud (VPC) networks, subnets and firewalls. The course also covers access control to networks, sharing networks and load balancing.
+
+## Labs
+
 **Inspired by** [@jochenkirstaetter](https://github.com/jochenkirstaetter) read his blog [here](https://jochen.kirstaetter.name/alc4-qwiklabs/)
