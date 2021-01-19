@@ -196,6 +196,7 @@ In this course, 'Architecting with Google Kubernetes Engine - Production', you'l
 * [Configuring Kubernetes Engine native Monitoring and Logging](https://googlepluralsight.qwiklabs.com/focuses/13381302?parent=lti_session)
 * [Configuring Liveness and Readiness Probes](https://googlepluralsight.qwiklabs.com/focuses/13395103?parent=lti_session)
 * [Using Cloud SQL with Google Kubernetes Engine](https://googlepluralsight.qwiklabs.com/focuses/13408956?parent=lti_session)
+* [CI/CD for Google Kubernetes Engine using Cloud Build](https://googlepluralsight.qwiklabs.com/focuses/13476893?parent=lti_session)
 
 ****************************************************
 
