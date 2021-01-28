@@ -230,6 +230,7 @@ This course gives participants a broad study of networking options on Google Clo
 * [Configuring VPC Network Peering](https://googlepluralsight.qwiklabs.com/focuses/13542892?parent=lti_session)
 * [Configuring an HTTP Load Balancer with Cloud Armor](https://googlepluralsight.qwiklabs.com/focuses/13558442?parent=lti_session)
 * [Caching Cloud Storage content with Cloud CDN](https://googlepluralsight.qwiklabs.com/focuses/13572747?parent=lti_session)
+* [Configuring an Internal Load Balancer](https://googlepluralsight.qwiklabs.com/focuses/13599037?parent=lti_session)
 
 
 **Inspired by** [@jochenkirstaetter](https://github.com/jochenkirstaetter) read his blog [here](https://jochen.kirstaetter.name/alc4-qwiklabs/)
