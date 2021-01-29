@@ -246,6 +246,6 @@ This course builds on the Networking in Google Cloud: Defining and Implementing 
 [Dynamic VPN gateways with Cloud Routers](https://googlepluralsight.qwiklabs.com/focuses/13612007?parent=lti_session)
 
 
-
+--------------------------------------------------------------------------------------------------------------------
 
 **Inspired by** [@jochenkirstaetter](https://github.com/jochenkirstaetter) read his blog [here](https://jochen.kirstaetter.name/alc4-qwiklabs/)
