@@ -233,4 +233,19 @@ This course gives participants a broad study of networking options on Google Clo
 * [Configuring an Internal Load Balancer](https://googlepluralsight.qwiklabs.com/focuses/13599037?parent=lti_session)
 
 
+***************************************************
+
+
+[Networking in Google Cloud: Hybrid Connectivity and Network Management](https://www.pluralsight.com/courses/networking-google-cloud-hybrid-connectivity-network-management-2)
+
+This course builds on the Networking in Google Cloud: Defining and Implementing Networks course and enhances participants study of networking options on Google Cloud. Through recorded lectures, demonstrations, and hands-on labs, participants explore and deploy Google Cloud networking technologies, such as the interconnection among networks, common network design patterns and the automated deployment of networks using Deployment Manager or Terraform. The course also covers networking pricing and billing to help you optimize your network spend and monitoring and logging features that can help you troubleshoot your Google Cloud network infrastructure.
+
+
+## Labs
+
+[Dynamic VPN gateways with Cloud Routers](https://googlepluralsight.qwiklabs.com/focuses/13612007?parent=lti_session)
+
+
+
+
 **Inspired by** [@jochenkirstaetter](https://github.com/jochenkirstaetter) read his blog [here](https://jochen.kirstaetter.name/alc4-qwiklabs/)
