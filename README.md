@@ -243,7 +243,8 @@ This course builds on the Networking in Google Cloud: Defining and Implementing 
 
 ## Labs
 
-[Dynamic VPN gateways with Cloud Routers](https://googlepluralsight.qwiklabs.com/focuses/13612007?parent=lti_session)
+* [Dynamic VPN gateways with Cloud Routers](https://googlepluralsight.qwiklabs.com/focuses/13612007?parent=lti_session)
+* [Optimizing network spend with Network Tiers](https://googlepluralsight.qwiklabs.com/focuses/13649519?parent=lti_session)
 
 
 --------------------------------------------------------------------------------------------------------------------
