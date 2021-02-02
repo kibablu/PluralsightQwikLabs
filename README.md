@@ -248,6 +248,7 @@ This course builds on the Networking in Google Cloud: Defining and Implementing 
 * [Implement Private Google Access and Cloud NAT](https://googlepluralsight.qwiklabs.com/focuses/13662475?parent=lti_session)
 * [Automating the Deployment of Networks Using Deployment Manager](https://googlepluralsight.qwiklabs.com/focuses/13663061?parent=lti_session)
 * [Automating the Deployment of Networks Using Terraform](https://googlepluralsight.qwiklabs.com/focuses/13663066?parent=lti_session)
+* [Resource Monitoring](https://googlepluralsight.qwiklabs.com/focuses/13663768?parent=lti_session)
 
 
 --------------------------------------------------------------------------------------------------------------------
