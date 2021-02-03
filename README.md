@@ -21,7 +21,7 @@ A curated list of qwiklabs found on [Pluralsight's](https://www.pluralsight.com/
 
 This section introduces you to important concepts and terminology for working with Google Cloud Platform (GCP). You learn about, and compare, many of the computing and storage services available in Google Cloud Platform, including Google App Engine, Google Compute Engine, and Google Container Engine.
 
-## Labs
+### Labs
 
 * [GCP Fundamentals: Getting Started with Cloud Marketplace](https://googlepluralsight.qwiklabs.com/focuses/23608)
 * [GCP Fundamentals: Getting Started with Compute Engine](https://googlepluralsight.qwiklabs.com/focuses/23631)
@@ -38,7 +38,7 @@ This section introduces you to important concepts and terminology for working wi
 
 In this section You will learn how to use the Google Cloud Platform through the console and Cloud Shell. You'll also learn about the role of a cloud architect, approaches to infrastructure design, and virtual networking configuration with Virtual Private Cloud (VPC), Projects, Networks, Subnetworks, IP addresses, Routes, and Firewall rules. It also covers deploying practical solutions including access management, quotas and billing, and resource monitoring.
 
-## Labs
+### Labs
 
 * [Console and Cloud Shell v1.5](https://googlepluralsight.qwiklabs.com/focuses/23618)
 * [Infrastructure Preview v1.5](https://googlepluralsight.qwiklabs.com/focuses/23619)
@@ -54,7 +54,7 @@ In this section You will learn how to use the Google Cloud Platform through the 
 
 In this section You will learn how to use the Google Cloud Platform through the console and Cloud Shell. You'll also learn about the role of a cloud architect, approaches to infrastructure design, and virtual networking configuration with Virtual Private Cloud (VPC), Projects, Networks, Subnetworks, IP addresses, Routes, and Firewall rules. It also covers deploying practical solutions including access management, quotas and billing, and resource monitoring.
 
-## Labs
+### Labs
 
 * [Cloud IAM v1.5](https://googlepluralsight.qwiklabs.com/focuses/23621)
 * [Cloud Storage v1.5](https://googlepluralsight.qwiklabs.com/focuses/23630)
@@ -73,7 +73,7 @@ In this section You will learn how to use the Google Cloud Platform through the 
 
 This section covers deploying practical solutions including securely interconnecting networks, load balancing, autoscaling, infrastructure automation and managed services. Learners explore services provided to applications built on GCP that enhance their scalability and maintainability. They work with services like Google Cloud Pub/Sub and Google Cloud Functions to make applications more efficient. They also explore the use of containers on GCP.
 
-## Labs
+### Labs
 
 * [Virtual Private Networks (VPN) v1.5](https://googlepluralsight.qwiklabs.com/focuses/23644)
 * [Virtual Machine Automation and Load Balancing v1.5](https://googlepluralsight.qwiklabs.com/focuses/23646)
@@ -91,7 +91,7 @@ This section covers deploying practical solutions including securely interconnec
 
 This section covers deploying practical solutions including securely interconnecting networks, load balancing, autoscaling, infrastructure automation and managed services. Learners explore services provided to applications built on GCP that enhance their scalability and maintainability. They work with services like Google Cloud Pub/Sub and Google Cloud Functions to make applications more efficient. They also explore the use of containers on GCP.
 
-## Lab
+### Lab
 
 * [Kubernetes Load Balancing v1.5](https://googlepluralsight.qwiklabs.com/focuses/23638)
 
@@ -103,7 +103,7 @@ This section covers deploying practical solutions including securely interconnec
 
 This course gives participants broad study of security controls and techniques on Google Cloud Platform.
 
-## Labs
+### Labs
 
 * [Configuring, using, and auditing VM service accounts and scopes](https://googlepluralsight.qwiklabs.com/focuses/38130)
 * [Encrypting Disks with Customer-Supplied Encryption Keys](https://googlepluralsight.qwiklabs.com/focuses/38134)
@@ -121,7 +121,7 @@ This course gives participants broad study of security controls and techniques o
 
 This self-paced training course gives participants broad study of security controls and techniques on Google Cloud Platform. Through recorded lectures, demonstrations, and hands-on labs, participants explore and deploy the components of a secure.
 
-## Labs
+### Labs
 
 * [Configuring Cloud IAM](https://googlepluralsight.qwiklabs.com/focuses/39011)
 * [Configuring VPC Firewalls](https://googlepluralsight.qwiklabs.com/focuses/39012)
@@ -137,7 +137,7 @@ This self-paced training course gives participants broad study of security contr
 
 This course gives participants a broad study of networking options on Google Cloud. Through recorded lectures, demonstrations, and hands-on labs, participants explore and deploy Google Cloud networking technologies, such as Google Virtual Private
 
-## Labs
+### Labs
 
 * [Getting Started with VPC Networking](https://googlepluralsight.qwiklabs.com/focuses/41019)
 * [Working with multiple VPC networks](https://googlepluralsight.qwiklabs.com/focuses/41022)
@@ -156,7 +156,7 @@ This course gives participants a broad study of networking options on Google Clo
 
 In this course, Architecting with Google Kubernetes Engine:Foundations, you get a review of the layout and principles of Google Cloud Platform, followed by an introduction to creating and managing software containers and an introduction to the...
 
-## Labs
+### Labs
 
 * [AK8S-01 Accessing the GCP Console and Cloud Shell](https://googlepluralsight.qwiklabs.com/focuses/9693366?parent=lti_session)
 * [AK8S-02 Working with Cloud Build](https://googlepluralsight.qwiklabs.com/focuses/9695022?parent=lti_session)
@@ -170,7 +170,7 @@ In this course, Architecting with Google Kubernetes Engine:Foundations, you get 
 
 In this course, 'Architecting with Google Kubernetes Engine - Workloads', you learn about performing Kubernetes operations; creating and managing deployments; the tools of GKE networking; and how to give your Kubernetes workloads persistent storage.
 
-## Labs
+### Labs
 
 * [Deploying Google Kubernetes Engine Clusters from Cloud Shell](https://googlepluralsight.qwiklabs.com/focuses/13267849?parent=lti_session)
 * [AK8S-04 Creating a GKE Cluster via Cloud Shell](https://googlepluralsight.qwiklabs.com/focuses/9790963?parent=lti_session)
@@ -189,7 +189,7 @@ In this course, 'Architecting with Google Kubernetes Engine - Workloads', you le
 
 In this course, 'Architecting with Google Kubernetes Engine - Production', you'll learn about Kubernetes and GKE security; logging and monitoring; and using Google Cloud managed storage and database services from within GKE.
 
-## Labs
+### Labs
 
 * [Securing Google Kubernetes Engine with Cloud IAM and Pod Security Policies](https://googlepluralsight.qwiklabs.com/focuses/13365646?parent=lti_session)
 * [Implementing Role-Based Access Control with Google Kubernetes Engine](https://googlepluralsight.qwiklabs.com/focuses/13366381?parent=lti_session)
@@ -204,7 +204,7 @@ In this course, 'Architecting with Google Kubernetes Engine - Production', you'l
 
 You'll learn to containerize workloads in Docker containers, deploy them to Kubernetes clusters provided by Google Kubernetes Engine, and scale those workloads to handle increased traffic.
 
-## Labs DevOps
+### Labs DevOps
 
 * [Introduction to Containers and Docker v1.6](https://googlepluralsight.qwiklabs.com/focuses/36034)
 * [Kubernetes Basics v1.6](https://googlepluralsight.qwiklabs.com/focuses/36035)
@@ -222,7 +222,7 @@ This learning path gives participants broad study of core infrastructure and net
 
 This course gives participants a broad study of networking options on Google Cloud. Through recorded lectures, demonstrations, and hands-on labs, participants explore and deploy Google Cloud networking technologies, such as Google Virtual Private Cloud (VPC) networks, subnets and firewalls. The course also covers access control to networks, sharing networks and load balancing.
 
-## Labs
+### Labs
 
 * [Getting Started with VPC Networking](https://googlepluralsight.qwiklabs.com/focuses/13505876?parent=lti_session)
 * [Working with multiple VPC networks](https://googlepluralsight.qwiklabs.com/focuses/13519150?parent=lti_session)
@@ -241,7 +241,7 @@ This course gives participants a broad study of networking options on Google Clo
 This course builds on the Networking in Google Cloud: Defining and Implementing Networks course and enhances participants study of networking options on Google Cloud. Through recorded lectures, demonstrations, and hands-on labs, participants explore and deploy Google Cloud networking technologies, such as the interconnection among networks, common network design patterns and the automated deployment of networks using Deployment Manager or Terraform. The course also covers networking pricing and billing to help you optimize your network spend and monitoring and logging features that can help you troubleshoot your Google Cloud network infrastructure.
 
 
-## Labs
+### Labs
 
 * [Dynamic VPN gateways with Cloud Routers](https://googlepluralsight.qwiklabs.com/focuses/13612007?parent=lti_session)
 * [Optimizing network spend with Network Tiers](https://googlepluralsight.qwiklabs.com/focuses/13649519?parent=lti_session)
