@@ -214,7 +214,7 @@ You'll learn to containerize workloads in Docker containers, deploy them to Kube
 
 ***************************************************
 
-## Networking in Google Cloud
+# Networking in Google Cloud
 
 This learning path gives participants broad study of core infrastructure and networking options on Google Cloud Platform. Through recorded lectures, demonstrations, and hands-on labs, participants explore and deploy GCP networking technologies, such as Google Virtual Private Cloud (VPC) networks, subnets, firewalls; interconnection among networks; load balancing; Cloud DNS; Cloud CDN; Cloud NAT. The course will also cover common network design patterns and automated deployment using Deployment Manager or Terraform.
 
@@ -250,6 +250,12 @@ This course builds on the Networking in Google Cloud: Defining and Implementing 
 * [Automating the Deployment of Networks Using Terraform](https://googlepluralsight.qwiklabs.com/focuses/13663066?parent=lti_session)
 * [Resource Monitoring](https://googlepluralsight.qwiklabs.com/focuses/13663768?parent=lti_session)
 * [Analyzing network traffic with VPC Flow Logs](https://googlepluralsight.qwiklabs.com/focuses/13663892?parent=lti_session)
+
+***************************************************
+
+# Security in Google Cloud
+
+About this learning path: Through recorded lectures, demonstrations, and hands-on labs, participants explore and deploy the components of a secure GCP solution, including Cloud Identity, the GCP Resource Manager, Cloud IAM, Google Virtual Private Cloud firewalls, Google Cloud Load balancing, Cloud CDN, Cloud Storage access control technologies, Stackdriver, Security Keys, Customer-Supplied Encryption Keys, the Google Data Loss Prevention API, and Cloud Armor. Participants learn mitigations for attacks at many points in a GCP-based infrastructure, including Distributed Denial-of-Service attacks, phishing attacks, and threats involving content classification and use.
 
 
 --------------------------------------------------------------------------------------------------------------------
