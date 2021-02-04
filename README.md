@@ -266,6 +266,9 @@ This self-paced training course gives participants broad study of security contr
 ### Labs 
 
 * [Configuring Cloud IAM](https://googlepluralsight.qwiklabs.com/focuses/13688939?parent=lti_session)
+* [Configuring VPC Firewalls](https://googlepluralsight.qwiklabs.com/focuses/13689673?parent=lti_session)
+
+
 --------------------------------------------------------------------------------------------------------------------
 
 **Inspired by** [@jochenkirstaetter](https://github.com/jochenkirstaetter) read his blog [here](https://jochen.kirstaetter.name/alc4-qwiklabs/)
