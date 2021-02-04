@@ -267,6 +267,7 @@ This self-paced training course gives participants broad study of security contr
 
 * [Configuring Cloud IAM](https://googlepluralsight.qwiklabs.com/focuses/13688939?parent=lti_session)
 * [Configuring VPC Firewalls](https://googlepluralsight.qwiklabs.com/focuses/13689673?parent=lti_session)
+* [Configuring and Using VPC Flow Logs in Cloud Logging](https://googlepluralsight.qwiklabs.com/focuses/13690277?parent=lti_session)
 
 
 --------------------------------------------------------------------------------------------------------------------
