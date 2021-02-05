@@ -277,6 +277,10 @@ This self-paced training course gives participants broad study of security contr
 This self-paced training course gives participants broad study of security controls and techniques on Google Cloud Platform. Through recorded lectures, demonstrations, and hands-on labs, participants explore and deploy the components of a secure GCP solution, including Cloud Storage access control technologies, Security Keys, Customer-Supplied Encryption Keys, API access controls, scoping, shielded VMs, encryption, and signed URLs. It also covers securing Kubernetes environments.
 
 
+### Labs 
+
+* [Configuring, using, and auditing VM service accounts and scopes](https://googlepluralsight.qwiklabs.com/focuses/13703839?parent=lti_session)
+
 
 --------------------------------------------------------------------------------------------------------------------
 
