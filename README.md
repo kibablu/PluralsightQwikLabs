@@ -269,6 +269,14 @@ This self-paced training course gives participants broad study of security contr
 * [Configuring VPC Firewalls](https://googlepluralsight.qwiklabs.com/focuses/13689673?parent=lti_session)
 * [Configuring and Using VPC Flow Logs in Cloud Logging](https://googlepluralsight.qwiklabs.com/focuses/13690277?parent=lti_session)
 
+***************************************************
+
+
+[Security Best Practices in Google Cloud](https://www.pluralsight.com/courses/security-best-practices-google-cloud-update)
+
+This self-paced training course gives participants broad study of security controls and techniques on Google Cloud Platform. Through recorded lectures, demonstrations, and hands-on labs, participants explore and deploy the components of a secure GCP solution, including Cloud Storage access control technologies, Security Keys, Customer-Supplied Encryption Keys, API access controls, scoping, shielded VMs, encryption, and signed URLs. It also covers securing Kubernetes environments.
+
+
 
 --------------------------------------------------------------------------------------------------------------------
 
