@@ -281,6 +281,7 @@ This self-paced training course gives participants broad study of security contr
 
 * [Configuring, using, and auditing VM service accounts and scopes](https://googlepluralsight.qwiklabs.com/focuses/13703839?parent=lti_session)
 * [Encrypting Disks with Customer-Supplied Encryption Keys](https://googlepluralsight.qwiklabs.com/focuses/13714183?parent=lti_session)
+* [Using Customer-Supplied Encryption Keys with Cloud Storage](https://googlepluralsight.qwiklabs.com/focuses/13714518?parent=lti_session)
 
 
 --------------------------------------------------------------------------------------------------------------------
