@@ -284,6 +284,8 @@ This self-paced training course gives participants broad study of security contr
 * [Using Customer-Supplied Encryption Keys with Cloud Storage](https://googlepluralsight.qwiklabs.com/focuses/13714518?parent=lti_session)
 * [Using Customer-Managed Encryption Keys with Cloud Storage and Cloud KMS](https://googlepluralsight.qwiklabs.com/focuses/13714709?parent=lti_session)
 * [Creating a BigQuery authorized view](https://googlepluralsight.qwiklabs.com/focuses/13714823?parent=lti_session)
+* [Using Cloud Security Scanner to find vulnerabilities in an App Engine application](https://googlepluralsight.qwiklabs.com/focuses/13727529?parent=lti_session)
+* [Configuring and Using Credentials with Secret Manager](https://googlepluralsight.qwiklabs.com/focuses/13727754?parent=lti_session)
 
 
 --------------------------------------------------------------------------------------------------------------------
