@@ -287,7 +287,17 @@ This self-paced training course gives participants broad study of security contr
 * [Using Cloud Security Scanner to find vulnerabilities in an App Engine application](https://googlepluralsight.qwiklabs.com/focuses/13727529?parent=lti_session)
 * [Configuring and Using Credentials with Secret Manager](https://googlepluralsight.qwiklabs.com/focuses/13727754?parent=lti_session)
 
+*****************************************************
 
+
+[Mitigating Vulnerabilities on Google Cloud](https://www.pluralsight.com/courses/mitigating-vulnerabilities-google-cloud)
+
+This self-paced training course gives participants broad study of security controls and techniques on Google Cloud Platform. Through recorded lectures, demonstrations, and hands-on labs, participants explore and deploy the components of a secure GCP solution, including Cloud Identity, the GCP Resource Manager, Cloud IAM, Google Virtual Private Cloud firewalls, Google Cloud Load balancing, Cloud CDN, Cloud Storage access control technologies, Stackdriver, Security Keys, Customer-Supplied Encryption Keys, the Google Data Loss Prevention API, and Cloud Armor. Participants learn mitigations for attacks at many points in a GCP-based infrastructure, including Distributed Denial-of-Service attacks, phishing attacks, and threats involving content classification and use.
+
+
+### Labs 
+
+* [Configuring GCLB, CDN, traffic blocklisting with Cloud Armor](https://googlepluralsight.qwiklabs.com/focuses/13844221?parent=lti_session)
 --------------------------------------------------------------------------------------------------------------------
 
 **Inspired by** [@jochenkirstaetter](https://github.com/jochenkirstaetter) read his blog [here](https://jochen.kirstaetter.name/alc4-qwiklabs/)
