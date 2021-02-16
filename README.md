@@ -298,6 +298,11 @@ This self-paced training course gives participants broad study of security contr
 ### Labs 
 
 * [Configuring GCLB, CDN, traffic blocklisting with Cloud Armor](https://googlepluralsight.qwiklabs.com/focuses/13844221?parent=lti_session)
+* [Redacting Sensitive Data with Data Loss Prevention API](https://googlepluralsight.qwiklabs.com/focuses/13844548?parent=lti_session)
+
+
+
+
 --------------------------------------------------------------------------------------------------------------------
 
 **Inspired by** [@jochenkirstaetter](https://github.com/jochenkirstaetter) read his blog [here](https://jochen.kirstaetter.name/alc4-qwiklabs/)
