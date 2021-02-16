@@ -299,6 +299,9 @@ This self-paced training course gives participants broad study of security contr
 
 * [Configuring GCLB, CDN, traffic blocklisting with Cloud Armor](https://googlepluralsight.qwiklabs.com/focuses/13844221?parent=lti_session)
 * [Redacting Sensitive Data with Data Loss Prevention API](https://googlepluralsight.qwiklabs.com/focuses/13844548?parent=lti_session)
+* [Installing Cloud Logging and Monitoring Agents](https://googlepluralsight.qwiklabs.com/focuses/13844787?parent=lti_session)
+* [Configuring and Using Cloud Logging and Monitoring](https://googlepluralsight.qwiklabs.com/focuses/13844801?parent=lti_session)
+* [Configuring and Viewing Cloud Audit Logs](https://googlepluralsight.qwiklabs.com/focuses/13844803?parent=lti_session)
 
 
 
