@@ -108,6 +108,9 @@ In this course, application developers learn how to design and develop cloud-nat
 * [App Dev - Setting up a Development Environment: Node.js](https://googlepluralsight.qwiklabs.com/focuses/13926847?parent=lti_session)
 * [App Dev - Setting up a Development Environment: Java](https://googlepluralsight.qwiklabs.com/focuses/13926853?parent=lti_session)
 * [App Dev - Setting up a Development Environment: Python](https://googlepluralsight.qwiklabs.com/focuses/13926863?parent=lti_session)
+* [App Dev - Storing Application Data in Cloud Datastore: Node.js](https://googlepluralsight.qwiklabs.com/focuses/13928029?parent=lti_session)
+* [App Dev - Storing Application Data in Cloud Datastore: Java](https://googlepluralsight.qwiklabs.com/focuses/13928040?parent=lti_session)
+* [App Dev - Storing Application Data in Cloud Datastore: Python](https://googlepluralsight.qwiklabs.com/focuses/13928046?parent=lti_session)
 
 
 ***************************************************
