@@ -103,6 +103,12 @@ This section covers deploying practical solutions including securely interconnec
 
 In this course, application developers learn how to design and develop cloud-native applications that seamlessly integrate managed services from Google Cloud. Participants learn how to apply best practices for application development and use the appropriate Google Cloud storage services for object storage, relational data, caching, and analytics.
 
+### Labs
+
+* [App Dev - Setting up a Development Environment: Node.js](https://googlepluralsight.qwiklabs.com/focuses/13926847?parent=lti_session)
+* [App Dev - Setting up a Development Environment: Java](https://googlepluralsight.qwiklabs.com/focuses/13926853?parent=lti_session)
+* [App Dev - Setting up a Development Environment: Python](https://googlepluralsight.qwiklabs.com/focuses/13926863?parent=lti_session)
+
 
 ***************************************************
 
