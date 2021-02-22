@@ -99,6 +99,14 @@ This section covers deploying practical solutions including securely interconnec
 
 # Other-Courses
 
+[Getting Started With Application Development](https://www.pluralsight.com/courses/getting-started-application-development-2)
+
+In this course, application developers learn how to design and develop cloud-native applications that seamlessly integrate managed services from Google Cloud. Participants learn how to apply best practices for application development and use the appropriate Google Cloud storage services for object storage, relational data, caching, and analytics.
+
+
+***************************************************
+
+
 [Mitigating Security Vulnerabilities on Google Cloud Platform](https://www.pluralsight.com/courses/mitigating-security-vulnerabilities-google-cloud-platform)
 
 This course gives participants broad study of security controls and techniques on Google Cloud Platform.
