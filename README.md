@@ -111,6 +111,9 @@ In this course, application developers learn how to design and develop cloud-nat
 * [App Dev - Storing Application Data in Cloud Datastore: Node.js](https://googlepluralsight.qwiklabs.com/focuses/13928029?parent=lti_session)
 * [App Dev - Storing Application Data in Cloud Datastore: Java](https://googlepluralsight.qwiklabs.com/focuses/13928040?parent=lti_session)
 * [App Dev - Storing Application Data in Cloud Datastore: Python](https://googlepluralsight.qwiklabs.com/focuses/13928046?parent=lti_session)
+* [App Dev - Storing Image and Video Files in Cloud Storage: Node.js](https://googlepluralsight.qwiklabs.com/focuses/13928471?parent=lti_session)
+* [App Dev - Storing Image and Video Files in Cloud Storage: Java](https://googlepluralsight.qwiklabs.com/focuses/13928478?parent=lti_session)
+* [App Dev - Storing Image and Video Files in Cloud Storage: Python](https://googlepluralsight.qwiklabs.com/focuses/13928486?parent=lti_session)
 
 
 ***************************************************
